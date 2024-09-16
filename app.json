@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "myProject",
+    "slug": "myProject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.myproject" // İos için bundle identifier
+    },
+    "android": {
+      "package": "com.myproject", // Android için paket adı
+      "versionCode": 1, // Her güncellemede artırmanız gerekebilir
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

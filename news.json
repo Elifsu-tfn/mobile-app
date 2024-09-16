@@ -1,0 +1,27 @@
+[
+    {
+        "date": "13.08.2003",
+        "id": 1,
+        "title": "birinci haber denemesi"
+    },
+    {
+        "date": "09.03.2022",
+        "id": 2,
+        "title": "ikinci haber denemesi"
+    },
+    {
+        "date": "06.06.1979",
+        "id": 3,
+        "title": "üçüncü haber dneemesi"
+    },
+    {
+        "date": "18.01.1974",
+        "id": 4,
+        "title": "dördüncü haber denemesi"
+    },
+    {
+        "date": "01.05.1999",
+        "id": 5,
+        "title": "beşinci haber denemesi"
+    }
+]
